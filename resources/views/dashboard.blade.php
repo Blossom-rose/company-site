@@ -13,5 +13,8 @@
                 </div>
             </div>
         </div>
+
     </div>
+<button class="bg-brand-blue hover:bg-brand-blue-dark text-white px-4 py-2 rounded-lg">Blue button</button>
+<button class="bg-brand-gold hover:bg-brand-gold-dark text-white px-4 py-2 rounded-lg">Gold button</button>
 </x-app-layout>
