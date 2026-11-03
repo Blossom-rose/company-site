@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@theme {
+  --color-brand-blue: #0022d2;
+  --color-brand-gold: #d89b00;
+}
